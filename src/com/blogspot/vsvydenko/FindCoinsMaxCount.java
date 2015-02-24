@@ -1,7 +1,11 @@
 package com.blogspot.vsvydenko;
 
-import java.util.Arrays;
-
+/**
+ * Created by vsvydenko on 24.02.15
+ *
+ * Given N (max 40000). And three coins with a, b, c values. Find maximum value of count coins to reach N
+ * Example: N = 17. a = 2, b = 3, c = 5. Result = 8 (7 * 2 + 1 * 3)
+ */
 public class FindCoinsMaxCount {
 
     public static void main(String[] args) {
